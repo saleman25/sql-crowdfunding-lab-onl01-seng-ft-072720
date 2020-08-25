@@ -4,4 +4,8 @@ CREATE TABLE users (
       age INTEGER
 );
 
-CREATE TABLE 
+CREATE TABLE projects (
+
+
+
+)
