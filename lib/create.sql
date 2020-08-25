@@ -1,5 +1,6 @@
 CREATE TABLE users (
-      id 
+      id INTEGER PRIMARY KEY,
+      
 
 
 
