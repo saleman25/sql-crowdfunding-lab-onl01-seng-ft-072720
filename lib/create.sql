@@ -1,1 +1,7 @@
-CREATE TABLE users 
+CREATE TABLE users (
+      id 
+
+
+
+
+)
