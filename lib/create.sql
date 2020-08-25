@@ -5,7 +5,8 @@ CREATE TABLE users (
 );
 
 CREATE TABLE projects (
-
+      id INTEGER PRIMARY KEY,
+      
 
 
 )
