@@ -12,3 +12,4 @@ CREATE TABLE projects (
       start_date INTEGER,
       end_date INTEGER
 );
+
