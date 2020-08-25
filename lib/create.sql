@@ -16,5 +16,6 @@ CREATE TABLE projects (
 CREATE TABLE pledges (
       id INTEGER PRIMARY KEY,
       amount INTEGER,
+      user_id INTEGER,
       
 )
