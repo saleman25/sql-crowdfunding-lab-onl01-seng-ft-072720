@@ -7,7 +7,7 @@
 # Make sure each ruby method returns a string containing a valid SQL statement.
 
 def selects_the_titles_of_all_projects_and_their_pledge_amounts_alphabetized_by_title
-  "SELECT owners.name, SUM(cats.net_worth)
+  "SELECT owners.name
    FROM owners
    INNER JOIN cats_owners
    ON owners.id = cats_owners.owner_id
